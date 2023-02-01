@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <island name="Япония">
+    <humanity>125440000</humanity>
+    <head>Фумио Кисида</head>
+  </island>
+  <island name="Сингапур">
+    <humanity>5453600</humanity>
+    <head>Тони Тан Кен Ям</head>
+  </island>
+  <island name="Куба">
+    <humanity>11008112</humanity>
+    <head>Рауль Кастро</head>
+  </island>
+</root>

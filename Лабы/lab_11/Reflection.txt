@@ -1,0 +1,19 @@
+Current class:	lab_11.Reflector
+Current assembly name:	lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+=	=	=	=========	=	=	=
+
+Public methods:
+
+=	=	=	=========	=	=	=
+
+Fields and Props:
+System.Reflection.FieldInfo[]
+System.Reflection.FieldInfo[]
+System.Reflection.FieldInfo[]
+System.Reflection.PropertyInfo[]
+System.Reflection.PropertyInfo[]
+System.Reflection.PropertyInfo[]
+
+=	=	=	=========	=	=	=
+
